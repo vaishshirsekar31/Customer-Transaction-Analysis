@@ -1,5 +1,5 @@
 # Customer Transaction Analysis
-**Author: Hang Vo Thuy Nguyen**
+
 
 ## 📋 Project Description
 The Customer Transaction Analysis project uses data analytics for data-driven business decision-making. It seeks to understand customer behavior and sales trends to optimize marketing strategies, enhance customer experiences, and predict future sales performance.
